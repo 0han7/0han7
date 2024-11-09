@@ -1,7 +1,7 @@
 ## 💻My stack 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">	![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=본인ID)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=0han7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **0han7/0han7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
